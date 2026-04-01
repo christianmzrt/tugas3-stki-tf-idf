@@ -71,7 +71,7 @@ pip install -r requirements.txt
 ### 2. Jalankan Program
 
 ```bash
-streamlit run app.py
+python -m streamlit run app.py
 ```
 
 Aplikasi akan otomatis terbuka di browser.
